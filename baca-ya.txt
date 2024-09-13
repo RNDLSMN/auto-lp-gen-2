@@ -1,0 +1,47 @@
+template HTML:
+{{ brand_slug }}
+{{ brand_name }}
+{{ canonicalUrl }}
+{{ link }}
+{{ buttonUrl }}
+{{ title }}
+{{ description }}
+{{ description2 }}
+{{ ratingValue }}
+{{ ratingCount }}
+{{ image_url }}
+{{ base_color }}
+{{ lighter_color }}
+{{ header_color }}
+{{ products_color }}
+{{ footer_color }}
+{{ amphtml }}
+Berikut adalah penjelasan mengenai template HTML yang diberikan:
+
+1. {{ brand_slug }}: Ini adalah slug merek yang biasanya digunakan dalam URL.
+
+2. {{ brand_name }}: Nama merek atau brand yang ditampilkan.
+
+3. {{ canonicalUrl }}: URL kanonik halaman, penting untuk SEO.
+
+4. {{ link }}: Tautan umum, mungkin mengarah ke halaman utama atau produk.
+
+5. {{ buttonUrl }}: URL untuk tombol aksi tertentu.
+
+6. {{ title }}: Judul halaman atau konten.
+
+7. {{ description }}: Deskripsi utama konten.
+
+8. {{ description2 }}: Deskripsi tambahan atau sekunder.
+
+9. {{ ratingValue }}: Nilai rating produk atau halaman.
+
+10. {{ ratingCount }}: Jumlah rating yang diberikan.
+
+11. {{ image_url }}: URL gambar utama.
+
+12. {{ base_color }}, {{ lighter_color }}, {{ header_color }}, {{ products_color }}, {{ footer_color }}: Variabel warna untuk berbagai elemen halaman.
+
+13. {{ amphtml }}: Tautan ke versi AMP (Accelerated Mobile Pages) dari halaman.
+
+Template ini sepertinya digunakan untuk menghasilkan halaman produk atau merek dengan informasi dinamis dan skema warna yang dapat disesuaikan.
